@@ -1,0 +1,24 @@
+Criteria	  Ratings	  Points
+
+A. Exploratory Data Analysis  12/12
+Good job! Problem definition, Data background and contents along with Univariate analysis and Bivariate analysis performed very well
+
+B. Data preprocessing  6/6
+Great work! Verified the presence of duplicate values, Verified the presence of any missing values, Examined for any outliers in the data, Performed data scaling prior to clustering	
+
+C. Applying K-means clustering  12/12
+Awesome! You have done great work in Applying K-means Clustering, Plotting the Elbow curve, Checking Silhouette Scores and Cluster Profiling	12/12
+
+D. Applying Hierarchical clustering  12/12
+Good job, All the steps done correctly which includes, Application of hierarchical clustering with different linkage methods, Plotting dendrograms for each linkage method and Checking cophenetic correlation for each linkage method.
+
+E. K-means vs Hierarchical Clustering  4/4
+Comparison of K-means and Hierarchical Clustering done very well.	4/4
+
+F. Actionable Insights & Recommendations    6/6
+Actionable Insights and Recommendations were well covered but could have talked about potential business benefits from improving the model.
+
+G. Presentation/Notebook - Overall quality  8/8
+Overall notebook is well organized and logically structured.	
+
+Total Point 60/60
